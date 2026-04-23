@@ -14,7 +14,7 @@ A project developed for self-learning about RESTapi in HTTP protocol. Making con
 This api returns geographic location information of a specific city
 
 <p align="center">
-  <img src="Check_API_weather_by_city.JPG" width="1000" />
+  <img src="Check_API_weather_by_geo.JPG" width="1000" />
 </p>
 
 This api returns weather information of a specific lat and lon information
@@ -22,4 +22,10 @@ This api returns weather information of a specific lat and lon information
 However, to make convenient while using app just typing a city name I use api following:
 <p align="center">
   <img src="Check_API_weather_by_cityname.JPG" width="1000" />
+</p>
+
+## Creating a Weather app in Python
+
+<p align="center">
+  <img src="Weather_app_Python.JPG" width="1000" />
 </p>
